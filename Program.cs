@@ -1,2 +1,10 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿
+
+
+
+/*Список веток:
+main
+task10
+task13
+task15
+*/
